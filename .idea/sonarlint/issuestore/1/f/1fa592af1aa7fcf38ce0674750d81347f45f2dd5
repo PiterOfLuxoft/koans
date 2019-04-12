@@ -1,0 +1,18 @@
+
+6squid:S3457 "4th argument is not used.(ö¬š¨ùÿÿÿÿ
+7squid:S21291" Remove this "String" constructor(½ ûÀ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+7squid:S21290" Remove this "String" constructor(ñˆê¼
+2squid:S2275¨"Not enough arguments.(ò‹¤Óùÿÿÿÿ
+osquid:S1192R"SDefine a constant instead of duplicating this literal "I AM A NUMBER ONE!" 3 times.(æÛ´âÿÿÿÿÿ
+2squid:S2275¼"Not enough arguments.(ìšÀÿÿÿÿÿ
+isquid:S1192W"SDefine a constant instead of duplicating this literal "I AM a number ONE!" 8 times.(ò¼œ
+fsquid:S1192›"IDefine a constant instead of duplicating this literal "%s %s %s" 3 times.(ıÊÒŒÿÿÿÿÿ
+7squid:S2129/" Remove this "String" constructor(œ’º
+jsquid:S1192Q"SDefine a constant instead of duplicating this literal "I am a number one!" 3 times.(Áö³ı
+<squid:S2129" Remove this "String" constructor(ÀÔŠÈøÿÿÿÿ
+1squid:S3457·"3rd argument is not used.(ÙàèÊ
+6squid:S2129 " Remove this "String" constructor(ïµ…c
+6squid:S2129'" Remove this "String" constructor(ïµ…c
+csquid:S1192›"FDefine a constant instead of duplicating this literal "a b a" 3 times.(ıÊÒŒÿÿÿÿÿ
+isquid:S1192²"LDefine a constant instead of duplicating this literal "{0} {1} {0}" 3 times.(ÁÊÛ…ûÿÿÿÿ

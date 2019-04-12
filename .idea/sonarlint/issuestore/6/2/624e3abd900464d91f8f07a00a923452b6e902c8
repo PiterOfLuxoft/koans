@@ -1,0 +1,9 @@
+
+=squid:S2129%"!Remove this "Integer" constructor(Šóïïúÿÿÿÿ
+‘squid:S2159,"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(©â““
+8squid:S2129$"!Remove this "Integer" constructor(Êíû±
+asquid:S17642"ECorrect one of the identical sub-expressions on both sides of equals.(ŞÂÊƒúÿÿÿÿ
+asquid:S1764"ECorrect one of the identical sub-expressions on both sides of equals.(‰ˆÇˆøÿÿÿÿ
+=squid:S2129"!Remove this "Integer" constructor(ŠÀÜúÿÿÿÿ
+8squid:S2129"!Remove this "Integer" constructor(ìˆ É
+asquid:S1764"ECorrect one of the identical sub-expressions on both sides of equals.(‰ˆÇˆøÿÿÿÿ

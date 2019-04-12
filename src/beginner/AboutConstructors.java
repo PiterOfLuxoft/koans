@@ -3,6 +3,8 @@ package beginner;
 
 import com.sandwich.koan.Koan;
 
+import java.sql.SQLOutput;
+
 import static com.sandwich.koan.constant.KoanConstants.__;
 import static com.sandwich.util.Assert.assertEquals;
 
@@ -26,7 +28,7 @@ public class AboutConstructors {
 
     @Koan
     public void simpleConstructorOrder() {
-        assertEquals(new B().someString, __);
+        assertEquals(new B().someString, "axg");
     }
 
     class Aa {
@@ -49,9 +51,18 @@ public class AboutConstructors {
 
     }
 
+    public static void main(String[] args) {
+        Boolean B1 = new Boolean("Yes");
+        Boolean B2 = new Boolean("True");
+        System.out.println("b1 = " + B1);
+        System.out.println("b2 = " + B2);
+    }
+
+
+
     @Koan
     public void complexConstructorOrder() {
-        assertEquals(new Bb().someString, __);
+        assertEquals(new Bb().someString, "aBoog");
     }
 
 }

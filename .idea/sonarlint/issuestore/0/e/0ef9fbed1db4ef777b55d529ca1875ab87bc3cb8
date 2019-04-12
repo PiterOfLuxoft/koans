@@ -1,0 +1,23 @@
+
+`squid:S2583&"DChange this condition so that it does not always evaluate to "false"(˜ş“¥úÿÿÿÿ
+~squid:S2178µ"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(ÀÈÕò
+{squid:S1845Ã"cRename method "count" to prevent any misunderstanding/clash with field "count" defined on line 191.(÷¿£Î
+Zsquid:S25838"CChange this condition so that it does not always evaluate to "true"(Çä¾
+g
+squid:S128j"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+_squid:S2583("CChange this condition so that it does not always evaluate to "true"(§‡Ì¢ıÿÿÿÿ
+dsquid:S1192^"HDefine a constant instead of duplicating this literal "Nothing" 5 times.(­ÌÒúÿÿÿÿ
+g
+squid:S128h"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ
+bsquid:S1301ˆ"KReplace this "switch" statement by "if" statements to increase readability.(ìúÇV
+^squid:S1192U"GDefine a constant instead of duplicating this literal "Basic " 5 times.(™Ş‘É
+esquid:S1192©"HDefine a constant instead of duplicating this literal "kthxbai" 4 times.(ÆÀÍ…ıÿÿÿÿ
+g
+squid:S128w"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ
+hsquid:S1301™"KReplace this "switch" statement by "if" statements to increase readability.(îÇËúÿÿÿÿ
+`squid:S2583G"DChange this condition so that it does not always evaluate to "false"(˜ş“¥úÿÿÿÿ
+g
+squid:S128y"LEnd this switch case with an unconditional break, return or throw statement.(İ–Ò˜ÿÿÿÿÿ
+[squid:S25836"DChange this condition so that it does not always evaluate to "false"(Ù’×
+Gsquid:S4524y"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
+`squid:S2583"DChange this condition so that it does not always evaluate to "false"(˜ş“¥úÿÿÿÿ

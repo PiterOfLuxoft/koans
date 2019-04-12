@@ -172,7 +172,7 @@ public class AboutConditionals {
         assertEquals(trueCount.count, 1);
         assertEquals(falseCount.count, 0);
     }
-    
+
     @Koan
     public void bitwise() {
         Counter trueCount = new Counter(true);
@@ -185,13 +185,15 @@ public class AboutConditionals {
         assertEquals(trueCount.count, 1);
         assertEquals(falseCount.count, 1);
     }
-    
+
     class Counter {
         boolean returnValue;
         int count = 0;
-        Counter(boolean returnValue) { 
+
+        Counter(boolean returnValue) {
             this.returnValue = returnValue;
         }
+
         boolean count() {
             count++;
             return returnValue;
